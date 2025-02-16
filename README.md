@@ -12,8 +12,9 @@ Here are some ideas to get you started: -->
     </summary> 
     <br>
     <ul>
-        <li> <a href=https://www.python.org/ target=_blank rel=noopener noreferrer> Python </a> </li>
+         # <li> <a href=https://www.python.org/ target=_blank rel=noopener noreferrer> Python </a> </li>
         <li> <a href=https://dataquest.io> Data Science Path in Dataquest </a> </li>
+        <li> <a href=(https://tryhackme.com/)> Red Teamer Path</a> </li>
     </ul>
 </details>
 <br>
