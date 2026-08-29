@@ -12,16 +12,23 @@ Here are some ideas to get you started: -->
     </summary> 
     <br>
     <ul>
+        <li> Cyber Security</li>
+        <li> Information Security</li>
         <li> Penetration Testing </li>
-        <li> Security Analyst </li>
-        <li> Security Researcher </li>
+        <li> Web Vulnerability Research </li>
+        <li> Hacking Labs</li>
     </ul>
 </details>
 <br>
 
 <details> 
     <summary> ⚡ I am: </summary>
-        Passionate about black box testing, mannual testing, technical involvement as a white hat.
-        I am also inclined to digital forensics, cryptography, and incident responder path.
+        <ul>
+            <li>Into Red Teaming!</li>
+            <li>Planning for OSCP soon</li>
+            <li>Always Learning (My Life long goal!)</li>
+            <li>Open to everything related to Security</li>
+            <li>Going for a Msc in Computer Science with Cyber Security Major</li>
+        </ul> 
 </details>
 
